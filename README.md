@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashi jain</h1>
 <h3 align="center">I am coding enthusiast</h3>
 <img align="center">I am coding enthusiast.</h3>
-<img align="right"width=400 alt="coding"src="https://www.shutterstock.com/shutterstock/photos/1986023957/display_1500/stock-photo-programmer-woman-coding-on-computer-coder-girl-1986023957.jpg>
+<img align="right"width=400 alt="coding"src="https://www.shutterstock.com/shutterstock/photos/1986023957/display_1500/stock-photo-programmer-woman-coding-on-computer-coder-girl-1986023957.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashijain12&label=Profile%20views&color=0e75b6&style=flat" alt="ashijain12" /> </p>
